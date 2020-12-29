@@ -54,7 +54,8 @@ $(function() {
 
     function help() {
          this.echo("try one of the following commands: " +
-                   "[[b;#fff;]help] [[b;#fff;]ls] [[b;#fff;]echo] [[b;#fff;]cat] [[b;#fff;]open]");
+                   "[[b;#F0EDEE;]help] [[b;#F0EDEE;]ls] [[b;#F0EDEE;]echo] " +
+                   "[[b;#F0EDEE;]cat] [[b;#F0EDEE;]open]");
 
     }
 });

@@ -1,5 +1,5 @@
 body{
-    background-color: #2f496e;
+    background-color: #2F1551;
 }
 
 .title{
@@ -11,7 +11,7 @@ body{
 .name{
     font-size:750%;
     font-family: 'Staatliches', cursive;
-    color: #f4eade;
+    color: #F0EDEE;
 }
 
 .links{
@@ -30,11 +30,13 @@ body{
     margin-top: 50px;
     min-height: 50vh;
     max-height: 50vh;
+    --background: #060412;
+    --color: #EFB720;
 }
 
 .fas, .fab{
     font-size:350%;
     margin-right: 10%;
     margin-left: 10%;
-    color: #ed8c72;
+    color: #EFB720;
 }
